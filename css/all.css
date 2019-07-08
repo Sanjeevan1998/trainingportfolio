@@ -13,10 +13,18 @@ body {
 
 .lired{
 text-indent: -350px;
+font-family: 'Amiri', serif;
 }
 
 .name{
   margin-left: 20px;
   font-family: 'Lobster';
   font-size: 35px;
+}
+
+.picname{
+  font-family: 'Comfortaa', cursive;
+}
+.heading{
+  font-family: 'Fredoka One', cursive;
 }
