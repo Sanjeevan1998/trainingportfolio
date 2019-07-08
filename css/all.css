@@ -1,0 +1,22 @@
+body {
+  background-color: #0e0b16;
+  background-image: url(../Img/bg1.jpg);
+  background-attachment:fixed;
+}
+
+.myul{
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  column-count: 2;
+  padding: 15px;
+}
+
+.lired{
+text-indent: -350px;
+}
+
+.name{
+  margin-left: 20px;
+  font-family: 'Lobster';
+  font-size: 35px;
+}
